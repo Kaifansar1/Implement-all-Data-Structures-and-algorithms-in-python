@@ -58,7 +58,7 @@ The following data structures are implemented in this repository:
   
   -> Tries
   
-  And more...
+  
 
 
 
