@@ -156,8 +156,7 @@ Installation:
  
 
    1. Clone the repository:
-     git clone https://github.com/Kaif999/Implement-all-Data-Structures-and-algorithms-in-python.git
-
+    https://github.com/Kaifansar1/Implement-all-Data-Structures-and-algorithms-in-python
 
 
    2. Navigate to the project directory:
